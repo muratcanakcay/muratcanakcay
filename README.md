@@ -1,16 +1,24 @@
-### Hi there 👋
+*There is really nothing you must be.*   
+*And there is nothing you must do.*  
+*There is really nothing you must have.*  
+*And there is nothing you must know.*  
+*There is really nothing you must become.*  
+  
+*However, it helps to understand that fire burns,*  
+*and when it rains, the earth gets wet.*  
+  
+\- *from a Japanese Zen scroll*  
 
-<!--
-**muratcanakcay/muratcanakcay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Hello there! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗝️ Currently working on:  
+    - Building my personal [website](https://github.com/muratcanakcay/Website), powered by [Hugo](https://gohugo.io/) and [Github Pages](https://pages.github.com/)  
+    - A port terminal container management simulation using software agents implemented with [JADE](https://jade.tilab.com/)  
+
+💎 Currently learning:  
+    - Blockchain development and smart contracts with [Solidity](https://soliditylang.org/) and [Plutus](https://developers.cardano.org/docs/smart-contracts/plutus/)  
+  
+🐙 Fun fact: 
+    - Octopuses have three hearts.  
