@@ -7,7 +7,7 @@
 *However, it helps to understand that fire burns,*  
 *and when it rains, the earth gets wet.*  
   
-\- *from a Japanese Zen scroll*  
+\- from a Japanese Zen scroll  
 
 ---
 
