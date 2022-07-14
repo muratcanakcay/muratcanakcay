@@ -20,5 +20,5 @@
 💎 Currently learning:  
     - Blockchain development and smart contracts with [Solidity](https://soliditylang.org/) and [Plutus](https://developers.cardano.org/docs/smart-contracts/plutus/)  
   
-🐙 Fun fact: 
+🐙 Fun fact:  
     - Octopuses have three hearts.  
