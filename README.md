@@ -14,11 +14,11 @@
 ## Hello there! 
 
 🗝️ Currently working on:  
-    - Building my personal [website](https://github.com/muratcanakcay/Website), powered by [Hugo](https://gohugo.io/) and [Github Pages](https://pages.github.com/)  
+    - Building my personal [website](https://github.com/muratcanakcay/Website), powered by [Hugo](https://gohugo.io/) and [Github Pages](https://pages.github.com/)  ---> [www.muratcanakcay.com](https://www.muratcanakcay.com)  
     - A port terminal container management simulation using software agents implemented with [JADE](https://jade.tilab.com/)  
 
 💎 Currently learning:  
     - Blockchain development and smart contracts with [Solidity](https://soliditylang.org/) and [Plutus](https://developers.cardano.org/docs/smart-contracts/plutus/)  
   
 🐙 Fun fact:  
-    - Octopuses have three hearts.  
+    - Octopuses have blue blood and three hearts 💙💙💙
