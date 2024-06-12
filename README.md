@@ -1,8 +1,8 @@
-*There is really nothing you must be.*   
-*And there is nothing you must do.*  
-*There is really nothing you must have.*  
-*And there is nothing you must know.*  
-*There is really nothing you must become.*  
+*There is really nothing you __must__ be.*   
+*And there is nothing you __must__ do.*  
+*There is really nothing you __must__ have.*  
+*And there is nothing you __must__ know.*  
+*There is really nothing you __must__ become.*  
   
 *However, it helps to understand that fire burns,*  
 *and when it rains, the earth gets wet.*  
